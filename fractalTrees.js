@@ -1,6 +1,7 @@
 var angle = 0;
 var stop = 0;
 
+
 var angleSlider;
 var stopSlider;
 
